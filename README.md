@@ -1,5 +1,4 @@
-# poleis.cloud -
-Public administration, made easy
+# poleis.cloud: public administration, made easy
 
 🌐 [poleis.cloud](https://poleis.cloud)
 
