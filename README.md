@@ -1,5 +1,4 @@
-# poleis.cloud-pub
-poleis.cloud
+# poleis.cloud -
 Public administration, made easy
 
 🌐 [poleis.cloud](https://poleis.cloud)
