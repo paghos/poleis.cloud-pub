@@ -3,4 +3,7 @@
 🌐 [poleis.cloud](https://poleis.cloud)
 📧 [hello@poleis.cloud](mailto:hello@poleis.cloud)
 
-⚠ Poleis is currently in the active development stage and will be ready for release in the near future!
+As a suite, poleis consists of different software.
+You can reach:
+- Minerva repo [here](https://github.com/paghos/poleis-minerva)
+- Chronos repo [here](https://github.com/paghos/poleis-chronos)
