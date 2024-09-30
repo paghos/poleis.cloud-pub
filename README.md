@@ -5,8 +5,8 @@
 🌐 [poleis.cloud](https://poleis.cloud)  
 📧 [hello@poleis.cloud](mailto:hello@poleis.cloud)
 
-As a suite, Poleis consists of different software.
-You can reach:
+As a suite, Poleis consists of different software.  
+You can reach:  
 - Minerva repo [here](https://github.com/paghos/poleis-minerva)
 - Chronos repo [here](https://github.com/paghos/poleis-chronos)
 
