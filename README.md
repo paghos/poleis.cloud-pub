@@ -13,7 +13,7 @@ You can reach:
 ------------------------------------------------------------------------------
 
 <img src="http://simonepagano.altervista.org/minerva/Violet.png" height="150">
-## Minerva
+##Minerva
 
 Minerva helps offices to manage tax disputes.  
 Available functionalities are:
@@ -25,7 +25,7 @@ Available functionalities are:
 ------------------------------------------------------------------------------
 
 <img src="http://simonepagano.altervista.org/chronos/Default.png" height="150">
-##  Chronos
+## Chronos
 
 Online appointment booking system and queue manager.  
 Available functionalities are:
