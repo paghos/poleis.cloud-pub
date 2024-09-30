@@ -1,3 +1,5 @@
+![http://simonepagano.altervista.org/poleis.png](http://simonepagano.altervista.org/poleis.png)  
+
 # poleis.cloud: public administration, made easy
 
 🌐 [poleis.cloud](https://poleis.cloud)  
