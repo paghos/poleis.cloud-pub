@@ -11,9 +11,9 @@ You can reach:
 📑 Poleis suite documentation can be reached [here](https://docs.poleis.cloud)
 
 ------------------------------------------------------------------------------
+![http://simonepagano.altervista.org/minerva/Violet.png](http://simonepagano.altervista.org/minerva/Violet.png)
 
-<img src="http://simonepagano.altervista.org/minerva/Violet.png" height="150">
-##Minerva
+## Minerva
 
 Minerva helps offices to manage tax disputes.  
 Available functionalities are:
@@ -23,8 +23,8 @@ Available functionalities are:
 - Reports, to filter the data and export it in XLSX format
 
 ------------------------------------------------------------------------------
+![http://simonepagano.altervista.org/chronos/Default.png](http://simonepagano.altervista.org/chronos/Default.png)
 
-<img src="http://simonepagano.altervista.org/chronos/Default.png" height="150">
 ## Chronos
 
 Online appointment booking system and queue manager.  
