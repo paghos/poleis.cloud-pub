@@ -8,4 +8,4 @@ You can reach:
 - Minerva repo [here](https://github.com/paghos/poleis-minerva)
 - Chronos repo [here](https://github.com/paghos/poleis-chronos)
 
-Poleis suite documentation can be reached [here](https://docs.poleis.cloud)
+📑 Poleis suite documentation can be reached [here](https://docs.poleis.cloud)
