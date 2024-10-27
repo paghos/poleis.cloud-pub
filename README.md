@@ -5,6 +5,8 @@
 🌐 [poleis.cloud](https://poleis.cloud)  
 📧 [hello@poleis.cloud](mailto:hello@poleis.cloud)
 
+[Update: as of Oct 27, 2024 - Repo's are not public anymore]
+
 As a suite, Poleis consists of different software.  
 You can reach:  
 - Minerva repo [here](https://github.com/paghos/poleis-minerva)
